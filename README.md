@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Sai Pravalika! 👋
 
-<!--
-**sai-Pravalika08/sai-Pravalika08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Engineering Student | Aspiring Software Developer**
 
-Here are some ideas to get you started:
+I'm a passionate CSE student interested in **Python, Full-Stack Development, and AI/ML**. I enjoy building practical applications, solving coding problems, and exploring new technologies to turn ideas into useful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- **Languages:** Python, SQL, JavaScript
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** Node.js, Express.js, Flask
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+- **[GitHub Portfolio Analyzer](https://github.com/sai-Pravalika08/GitHub-Portfolio-Analyzer)** — Analyzes GitHub profiles with portfolio insights, analytics, and AI-powered reviews.
+- **[Coding Contest Tracker](https://github.com/sai-Pravalika08/Coding-Contest-Tracker)** — Helps users track coding contests and stay updated on competitive programming opportunities.
+- **[Flask Task Manager](https://github.com/sai-Pravalika08/flask-task-manager)** — A web application for organizing and managing tasks using Flask.
+
+### 🎯 Currently Focused On
+- Strengthening Data Structures and Algorithms.
+- Improving full-stack development skills.
+- Exploring AI/ML and intelligent application development.
+- Building projects and learning through hands-on experience.
+
+### 📫 Connect With Me
+- **GitHub:** [sai-Pravalika08](https://github.com/sai-Pravalika08)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/k-sai-pravalika/)
+
+💡 *“Learn continuously, build consistently, and improve with every line of code.”*
