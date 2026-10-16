@@ -1,4 +1,4 @@
-# Hi, I'm Sai Pravalika! 👋
+# Hey, I'm Sai Pravalika! 👋
 
 ### 🎓 Computer Science Engineering Student | Aspiring Software Developer
 
