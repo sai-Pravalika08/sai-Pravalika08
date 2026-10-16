@@ -1,29 +1,94 @@
-# Hey, I'm Sai Pravalika! 👋
+# Hi, I'm Sai Pravalika! 👋
 
-🎓 **Computer Science Engineering Student | Aspiring Software Developer**
+### 🎓 Computer Science Engineering Student | Aspiring Software Developer
 
-I'm a passionate CSE student interested in **Python, Full-Stack Development, and AI/ML**. I enjoy building practical applications, solving coding problems, and exploring new technologies to turn ideas into useful solutions.
+💻 Passionate about **Python, Full-Stack Development, and AI/ML**, I enjoy transforming ideas into practical applications. I love solving coding challenges, exploring emerging technologies, and building projects that solve real-world problems.
 
-### 💻 Technical Skills
-- **Languages:** Python, SQL, JavaScript
-- **Frontend:** React.js, HTML, CSS
-- **Backend:** Node.js, Express.js, Flask
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend & Backend**
+<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases & Tools**
+<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
 
 ### 🚀 Featured Projects
-- **[GitHub Portfolio Analyzer](https://github.com/sai-Pravalika08/GitHub-Portfolio-Analyzer)** — Analyzes GitHub profiles with portfolio insights, analytics, and AI-powered reviews.
-- **[Coding Contest Tracker](https://github.com/sai-Pravalika08/Coding-Contest-Tracker)** — Helps users track coding contests and stay updated on competitive programming opportunities.
-- **[Flask Task Manager](https://github.com/sai-Pravalika08/flask-task-manager)** — A web application for organizing and managing tasks using Flask.
 
-### 🎯 Currently Focused On
-- Strengthening Data Structures and Algorithms.
-- Improving full-stack development skills.
-- Exploring AI/ML and intelligent application development.
-- Building projects and learning through hands-on experience.
+🔹 **[GitHub Portfolio Analyzer](https://github.com/sai-Pravalika08/GitHub-Portfolio-Analyzer)**  
+An AI-powered full-stack application that analyzes GitHub profiles and provides portfolio insights, analytics, and downloadable reports.
 
-### 📫 Connect With Me
-- **GitHub:** [sai-Pravalika08](https://github.com/sai-Pravalika08)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/k-sai-pravalika/)
+🔹 **[Coding Contest Tracker](https://github.com/sai-Pravalika08/Coding-Contest-Tracker)**  
+A project focused on tracking coding contests and helping developers stay informed about competitive programming opportunities.
 
-💡 *“Learn continuously, build consistently, and improve with every line of code.”*
+🔹 **[Flask Task Manager](https://github.com/sai-Pravalika08/flask-task-manager)**  
+A Python Flask web application designed to organize tasks and simplify task management.
+
+---
+
+### 🎯 Current Goals
+
+- 🧠 Strengthening Data Structures and Algorithms.
+- 💻 Improving full-stack development skills.
+- 🤖 Exploring AI/ML and intelligent application development.
+- 🚀 Building practical projects and learning new technologies.
+- 🤝 Collaborating with developers and contributing to meaningful projects.
+
+---
+
+### 🏆 Achievements
+
+- 💡 Solved **35+ coding problems on LeetCode**.
+- 📄 Published a project paper on **File Organizer**.
+- 🌐 Completed web development training and technical learning programs.
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sai-Pravalika08&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-Pravalika08&layout=compact&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/k-sai-pravalika/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ksaipravalika845@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sai-Pravalika08">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+💡 *"Learn continuously, build purposefully, and grow with every line of code."*
+
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
