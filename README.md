@@ -55,13 +55,6 @@ A Python Flask web application designed to organize tasks and simplify task mana
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-Pravalika08&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-Pravalika08&layout=compact&hide_border=true" alt="Most Used Languages" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
